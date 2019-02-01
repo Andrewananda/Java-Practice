@@ -5,5 +5,9 @@ public class Arrays {
         for (int counter=0;counter<array.length;counter++){
             System.out.println(counter + "\t" + array[counter]);
         }
+        String arrayPeople[] = {"Andrew","Johnny","Brian","Clair"};
+        for (int counter=1;counter<arrayPeople.length;counter++){
+            System.out.println(counter + "\t" + arrayPeople[counter]);
+        }
     }
 }
