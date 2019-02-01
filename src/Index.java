@@ -1,5 +1,3 @@
-import java.lang.reflect.Member;
-
 public class Index {
     public static void main(String[] args) {
         int weightOfAPerson;
